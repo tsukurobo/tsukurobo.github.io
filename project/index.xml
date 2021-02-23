@@ -1,64 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Project on つくろぼ</title>
+    <title>Project | つくろぼ on つくろぼ</title>
     <link>https://tsukurobo.github.io/project/</link>
-    <description>Recent content in Our Project on つくろぼ</description>
+    <description>Recent content in Project | つくろぼ on つくろぼ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Tsukuba Robot Circle All Rights Reserved</copyright><atom:link href="https://tsukurobo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rio Furniture</title>
-      <link>https://tsukurobo.github.io/project/rio-furniture-1/</link>
+      <title>DCモータドライバ</title>
+      <link>https://tsukurobo.github.io/project/motordriver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tsukurobo.github.io/project/rio-furniture-1/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://tsukurobo.github.io/project/rio-furniture-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsukurobo.github.io/project/rio-furniture-2/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://tsukurobo.github.io/project/rio-furniture-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsukurobo.github.io/project/rio-furniture-3/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://tsukurobo.github.io/project/rio-furniture-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsukurobo.github.io/project/rio-furniture-4/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://tsukurobo.github.io/project/rio-furniture-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsukurobo.github.io/project/rio-furniture-5/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://tsukurobo.github.io/project/rio-furniture-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tsukurobo.github.io/project/rio-furniture-6/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
+      <guid>https://tsukurobo.github.io/project/motordriver/</guid>
+      <description>DCモータードライバ ロボットの動力として多く用いられているモーター。モーターを任意の速度、方向で回転させるためには専用の電子回路が必要になります。市販もされていますが、市販品は高価で修理も困難です。そのため、回路班が設計したモータードライバ基板を使用しています。製作・修理・制御用ソフトウェア開発もサークル内で行っています。</description>
     </item>
     
   </channel>
